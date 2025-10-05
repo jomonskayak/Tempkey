@@ -12,7 +12,7 @@
     "password": "pass2",
     "expiresAt": "2025-11-30",
     "allowOffline": false
-  }
+  },
   {
     "id": "840ec2577943e2de",
     "username": "840ec2577943e2de",
@@ -26,7 +26,7 @@
     "password": "pass2",
     "expiresAt": "2025-11-30",
     "allowOffline": false
-  }
+  },
   {
     "id": "840ec2577943e2de",
     "username": "840ec2577943e2de",
@@ -42,4 +42,3 @@
     "allowOffline": false
   }
 ]
-  
